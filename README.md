@@ -29,6 +29,9 @@ http://<服务器ip>:8080/simple-spring-mvc/upload
 
 ![image](https://github.com/user-attachments/assets/f4330fe1-37ec-4a5e-9a57-2ef3c1a9041d)
 
+可通过get请求下载文件
+![image](https://github.com/user-attachments/assets/ec8731c6-e91c-42f9-b626-e02b98e298d7)
+
 
 注意事项
 目前该版本不支持文件名为中文的情况，如果有中文文件名，请修改为英文或其他支持的字符集。
