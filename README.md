@@ -6,3 +6,6 @@ attention:目前还不支持文件名为中文的情况
 3.把war文件放在tomcat的webapps目录下并重启tomcat
 4.再次打开webapps目录，你会发现war文件被解压了，进入simple-spring-mvc/WEB-INF/classes目录，把spring-mvc.xml移动到WEB-INF目录
 5.访问网址http://<服务器ip>:8080/simple-spring-mvc/upload  (8080是tomcat的默认端口)即可看到文件上传目录
+页面延时如下：
+![image](https://github.com/user-attachments/assets/12484297-b6df-40b8-9c33-216ee0bb1248)
+
